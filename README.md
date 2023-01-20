@@ -1,2 +1,2 @@
-# CRUD Operations for managing Solvit entity 
+# CRUD Operations for managing entity 
 
